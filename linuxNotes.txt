@@ -1,0 +1,10 @@
+
+day 1: 
+basic linux commands.
+
+day 2:
+file permissions
+editors
+
+day 3:
+processes
