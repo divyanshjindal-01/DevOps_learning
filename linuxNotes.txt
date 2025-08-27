@@ -8,3 +8,7 @@ editors
 
 day 3:
 processes
+
+day 4:
+git commands
+
